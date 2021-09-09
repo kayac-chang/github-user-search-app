@@ -19,6 +19,10 @@ module.exports = {
           darker: "#1E2A47",
         },
       },
+      boxShadow: {
+        DEFAULT: `0px 4px 4px 0px rgba(0, 0, 0, 0.25)`,
+        sm: `0px 16px 30px -10px rgba(70, 96, 187, 0.198567)`,
+      },
     },
   },
   plugins: [],
